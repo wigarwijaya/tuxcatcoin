@@ -26,10 +26,10 @@ const HowToBuy = () => {
               </svg>
             </div>
             <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-              <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                Shooting Stars
+              <h2 className="font-medium title-font text-gray-900 mb-1 text-3xl">
+                Create a wallet
               </h2>
-              <p className="leading-relaxed">
+              <p className="leading-relaxed text-2xl">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
                 bespoke try-hard cliche palo santo offal.
               </p>
@@ -58,10 +58,10 @@ const HowToBuy = () => {
               </svg>
             </div>
             <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-              <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                The Catalyzer
+              <h2 className="font-medium title-font text-gray-900 mb-1 text-3xl">
+                Get some BTC
               </h2>
-              <p className="leading-relaxed">
+              <p className="leading-relaxed text-2xl">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
                 bespoke try-hard cliche palo santo offal.
               </p>
@@ -91,10 +91,10 @@ const HowToBuy = () => {
               </svg>
             </div>
             <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-              <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                The 400 Blows
+              <h2 className="font-medium title-font text-gray-900 mb-1 text-3xl">
+                Go to Uniswap
               </h2>
-              <p className="leading-relaxed">
+              <p className="leading-relaxed text-2xl">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
                 bespoke try-hard cliche palo santo offal.
               </p>
@@ -124,10 +124,10 @@ const HowToBuy = () => {
               </svg>
             </div>
             <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-              <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                Neptune
+              <h2 className="font-medium title-font text-gray-900 mb-1 text-3xl">
+                Switch BTC to TuxCat
               </h2>
-              <p className="leading-relaxed">
+              <p className="leading-relaxed text-2xl">
                 VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
                 bespoke try-hard cliche palo santo offal.
               </p>
